@@ -14,6 +14,10 @@ copy p file into bin directory
 chmod +x ~/bin/p
 ```
 
+```
+source ~/.bash_profile
+```
+
 configure
 ---------
 ```
